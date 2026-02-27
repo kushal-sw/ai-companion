@@ -1,4 +1,4 @@
-💜 Aura — Interactive AI Desktop Assistant
+ Aura — Interactive AI Desktop Assistant
 
 Aura is a privacy-focused conversational AI desktop application featuring a real-time 3D avatar, persistent memory, and voice interaction. It runs locally on your machine, giving you full control over your data.
 
