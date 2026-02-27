@@ -1,0 +1,27 @@
+{
+  "name": "aura",
+  "version": "1.0.0",
+  "description": "Aura AI Companion",
+  "main": "electron/main.js",
+  "scripts": {
+    "start": "electron .",
+    "dev": "vite",
+    "dev:electron": "concurrently \"vite\" \"sleep 2 && electron .\"",
+    "build": "vite build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.0",
+    "concurrently": "^8.2.0",
+    "electron": "^29.0.0",
+    "vite": "^5.0.0"
+  },
+  "dependencies": {
+    "@pixiv/three-vrm": "^2.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "three": "^0.164.0"
+  }
+}

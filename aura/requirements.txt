@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+openai-whisper
+TTS
+chromadb
+apscheduler
+numpy
+sounddevice
+ollama
+pyaudio
+requests
